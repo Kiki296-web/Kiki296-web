@@ -25,7 +25,7 @@ I’m passionate about:
 ---
 
 📫 Let's Connect
-<p align="left"> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nikitha-jonas-25084623a//" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /> </a> <a href="mailto:jonasnikitha@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/nikitha-jonas-25084623a//" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /> </a> <a href="mailto:jonasnikitha@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" /> </a> </p>
 
 💬 Fun Fact
 I love learning how things work behind the scenes — whether it's servers, systems, or software architecture. Debugging is like detective work for me 🔍.
